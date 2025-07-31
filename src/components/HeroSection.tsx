@@ -5,6 +5,7 @@ import { Card } from "@/components/ui/card";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Send, Sparkles, CheckCircle, MessageCircle } from "lucide-react";
 import heroImage from "@/assets/hero-bg.jpg";
+// Fixed Textarea reference error
 
 interface Message {
   id: string;
